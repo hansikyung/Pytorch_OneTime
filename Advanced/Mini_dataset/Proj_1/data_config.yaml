@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/cloud/
+
+#path로부터의 상대경로
+train: /content/drive/MyDrive/cloud/train_image_list.txt
+val : /content/drive/MyDrive/cloud//valid_image_list.txt
+
+# Classes
+names:
+  0 : decayed 
